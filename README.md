@@ -45,6 +45,6 @@ I enjoy all kinds of music, hiking and boardgames in my freetime.
 
 
 | Find me                                | | | |
-| ---                                    | | | |
+| ---                                    | --- | --- | --- |
 | [my website](https://beyermatthias.de) | [mastodon](https://mastodon.technology/@musicmatze) | [pixelfed](https://pixelfed.social/musicmatze) | [xing](https://www.xing.com/profile/Matthias_Beyer47) |
 
