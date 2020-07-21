@@ -44,10 +44,7 @@ I enjoy all kinds of music, hiking and boardgames in my freetime.
 - My former Linux User Group at the university I studied at
 
 
-#### Find me
-
-- [on my website](https://beyermatthias.de)
-- [on mastodon](https://mastodon.technology/@musicmatze)
-- [on pixelfed](https://pixelfed.social/musicmatze)
-- [on xing](https://www.xing.com/profile/Matthias_Beyer47)
+| Find me                                | | | |
+| ---                                    | | | |
+| [my website](https://beyermatthias.de) | [mastodon](https://mastodon.technology/@musicmatze) | [pixelfed](https://pixelfed.social/musicmatze) | [xing](https://www.xing.com/profile/Matthias_Beyer47) |
 
