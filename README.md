@@ -14,6 +14,14 @@ I enjoy all kinds of music, hiking and boardgames in my freetime.
   rust library for the TOML format
 
 
+#### I contribute to
+
+- [nixos/nixpkgs](https://nixos.org)
+- All rust crates I use myself and need features in
+- My local Linux User Group
+- My former Linux User Group at the university I studied at
+
+
 #### Find me
 
 - [on my website](https://beyermatthias.de)
