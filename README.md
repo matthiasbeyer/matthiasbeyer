@@ -23,7 +23,7 @@ I enjoy all kinds of music, hiking and boardgames in my freetime.
 | (La)Tex                               | Advanced                                 |
 | Haskell, Functional Programming       | Advanced beginner                        |
 | Linux: NixOS                          | Professional / I can build large systems |
-| Linux: CentOS, Debianoids, Arch, SLES | Advanced c                               |
+| Linux: CentOS, Debianoids, Arch, SLES | Advanced                                 |
 | git                                   | Professional                             |
 | Deployment: Puppet, Docker, openshift | Advanced beginner                        |
 
