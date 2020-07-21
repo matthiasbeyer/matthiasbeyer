@@ -11,13 +11,14 @@ I enjoy all kinds of music, hiking and boardgames in my freetime.
 
 #### I am proud of
 
-| [imag](https://sr.ht/~matthiasbeyer/imag/)                     | A personal-information managment suite for the linux commandline        |
-| [toml-query](https://git.sr.ht/~matthiasbeyer/toml-query)      | A XPath-like Rust library for the TOML format                           |
-| Some more [rust crates](https://crates.io/users/matthiasbeyer) |                                                                         |
-| My skills with                                                 | git, bash, vim, make, the linux commandline, but also                   |
-|                                                                | abstract thinking,                                                      |
-|                                                                | divide-and-conquer-style problem solving                                |
-|                                                                | getting a deep understanding of a problem before deciding on a solution |
+* [imag](https://sr.ht/~matthiasbeyer/imag/) a personal-information managment suite for the linux commandline
+* [toml-query](https://git.sr.ht/~matthiasbeyer/toml-query) a XPath-like Rust library for the TOML format
+* Some more [rust crates](https://crates.io/users/matthiasbeyer)
+* My skills with
+  * git, bash, vim, make, the linux commandline, but also
+  * abstract thinking,
+  * divide-and-conquer-style problem solving
+  * getting a deep understanding of a problem before deciding on a solution
 
 
 #### I have skills in / I worked with
