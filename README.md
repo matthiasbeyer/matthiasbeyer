@@ -9,38 +9,23 @@ linux-based tools (see below).
 
 I enjoy all kinds of music, hiking and boardgames in my freetime.
 
+| I am proud of     | * [imag](https://sr.ht/~matthiasbeyer/imag/), a personal-information managment suite                       |
+|                   | * [toml-query](https://git.sr.ht/~matthiasbeyer/toml-query), a XPath-like rust library for the TOML format |
+|                   | * Some more [rust crates](https://crates.io/users/matthiasbeyer)                                           |
 
-#### I am proud of
+#### I have skills in / I worked with
 
-* [imag](https://sr.ht/~matthiasbeyer/imag/), a personal-information managment
-  suite
-* [toml-query](https://git.sr.ht/~matthiasbeyer/toml-query), a XPath-like
-  rust library for the TOML format
-* Some more [rust crates](https://crates.io/users/matthiasbeyer)
-
-
-#### I have skills in/I worked with
-
-- Programming in general, and especially in
-    - Rust (professional, I can build large systems)
-    - Bash (advanced)
-    - C/C++11 and newer
-    - Other scripting languages like Ruby, Python, Lua
-    - Haskell (a bit, not enough for sure)
-- Linux OSes
-    - NixOS
-    - CentOS 6, 7, 8
-    - Archlinux
-    - Debian 8, 9, 10
-    - Ubuntu
-    - SLES 11, 12, 15
-- Other tools
-    - git
-    - Puppet
-    - Dockert
-    - openshift
-    - Various Linux commandline tools
-    - Various Buildsystems
+| Tool                                  | Experience                               |
+| ---                                   | ---                                      |
+| Rust, Bash                            | Professional / I can build large systems |
+| C/C++11                               | Advanced                                 |
+| Scripting languages                   | Advanced                                 |
+| (La)Tex                               | Advanced                                 |
+| Haskell, Functional Programming       | Advanced beginner                        |
+| Linux: NixOS                          | Professional / I can build large systems |
+| Linux: CentOS, Debianoids, Arch, SLES | Advanced c                               |
+| git                                   | Professional                             |
+| Deployment: Puppet, Docker, openshift | Advanced beginner                        |
 
 
 #### I contribute to
