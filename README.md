@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>This account is solely used for contributions to repositories I do not own.</h1>
 
 If you want to contribute to my repositories, go to
 
@@ -6,8 +6,6 @@ If you want to contribute to my repositories, go to
 * [my sr.ht](https://git.sr.ht/~matthiasbeyer)
 
 and learn how to use git properly ([git-send-email.io](https://git-send-email.io)).
-
-This account is solely used for contributions to repositories I do not own.
 
 Besides that:
 
