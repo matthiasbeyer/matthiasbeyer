@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I try to move away from Microsoft Github.
-Please consider doing the same.
-
-
 If you want to contribute to my repositories, go to
 
 * [my repos](https://git.beyermatthi.as)
@@ -11,6 +7,7 @@ If you want to contribute to my repositories, go to
 
 and learn how to use git properly ([git-send-email.io](https://git-send-email.io)).
 
+This account is solely used for contributions to repositories I do not own.
 
 Besides that:
 
