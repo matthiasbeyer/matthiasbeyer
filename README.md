@@ -14,3 +14,8 @@ Besides that:
 * [my pixelfed](https://pixelfed.social/musicmatze)
 * [my xing](https://www.xing.com/profile/Matthias_Beyer47)
 
+<h2>Buy me a coffee</h2>
+
+If you appreciate what I do, feel free to buy me a coffee via liberapay:
+
+<noscript><a href="https://liberapay.com/musicmatze/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
