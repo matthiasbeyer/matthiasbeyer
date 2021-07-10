@@ -10,7 +10,7 @@ and learn how to use git properly ([git-send-email.io](https://git-send-email.io
 Besides that:
 
 * [my website](https://beyermatthias.de)
-* [my mastodon](https://mastodon.technology/@musicmatze)
+* <a rel="me" href="https://mastodon.technology/@musicmatze">my mastodon</a>
 * [my pixelfed](https://pixelfed.social/musicmatze)
 * [my xing](https://www.xing.com/profile/Matthias_Beyer47)
 
