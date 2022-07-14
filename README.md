@@ -1,11 +1,7 @@
-<h1>This account is solely used for contributions to repositories I do not own.</h1>
+This account is mostly used for contributions!
 
-If you want to contribute to my repositories, go to
-
-* [my repos](https://git.beyermatthi.as)
-* [my sr.ht](https://git.sr.ht/~matthiasbeyer)
-
-and learn how to use git properly ([git-send-email.io](https://git-send-email.io)).
+I host my own code on [my private git server](https://git.beyermatthi.as).
+Feel free to [send me patch mails](https://git-send-email.io)!
 
 Besides that:
 
@@ -13,6 +9,7 @@ Besides that:
 * <a rel="me" href="https://mastodon.technology/@musicmatze">my mastodon</a>
 * [my pixelfed](https://pixelfed.social/musicmatze)
 * [my xing](https://www.xing.com/profile/Matthias_Beyer47)
+* [my linkedin](https://www.linkedin.com/in/matthias-beyer/)
 
 ## Life Roadmap
 
@@ -34,7 +31,6 @@ Besides that:
   - [ ] Kazakhstan/Mongolia
 - [x] Be awesome and not modest
 
-<h2>Buy me a coffee</h2>
 
 If you appreciate what I do, feel free to buy me a coffee via liberapay:
 
