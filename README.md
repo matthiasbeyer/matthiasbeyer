@@ -1,10 +1,3 @@
-This account is mostly used for contributions!
-
-I host my own code on [my private git server](https://git.beyermatthi.as).
-Feel free to [send me patch mails](https://git-send-email.io)!
-
-Besides that:
-
 * [my website](https://beyermatthias.de)
 * <a rel="me" href="https://mastodon.technology/@musicmatze">my mastodon</a>
 * [my pixelfed](https://pixelfed.social/musicmatze)
