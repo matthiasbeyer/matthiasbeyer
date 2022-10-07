@@ -1,5 +1,5 @@
 * [my website](https://beyermatthias.de)
-* <a rel="me" href="https://mastodon.technology/@musicmatze">my mastodon</a>
+* <a rel="me" href="https://fosstodon.org/@musicmatze">my mastodon</a>
 * [my pixelfed](https://pixelfed.social/musicmatze)
 * [my xing](https://www.xing.com/profile/Matthias_Beyer47)
 * [my linkedin](https://www.linkedin.com/in/matthias-beyer/)
