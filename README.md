@@ -1,8 +1,36 @@
-* [my website](https://beyermatthias.de)
-* <a rel="me" href="https://fosstodon.org/@musicmatze">my mastodon</a>
-* [my pixelfed](https://pixelfed.social/musicmatze)
-* [my xing](https://www.xing.com/profile/Matthias_Beyer47)
-* [my linkedin](https://www.linkedin.com/in/matthias-beyer/)
+ <table align="center"><tr><td align="center">
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbeyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
+
+---
+
+<table align="center"><tr>
+<td>
+  <a href="https://beyermatthias.de">Blog/Website</a>
+</td>
+<td>
+  <a rel="me" href="https://fosstodon.org/@musicmatze">Mastodon</a>
+</td>
+<td>
+  <a href="https://pixelfed.social/musicmatze">Pixelfed</a>
+</td>
+<td>
+  <a href="https://www.xing.com/profile/Matthias_Beyer47">Xing</a>
+</td>
+<td>
+  <a href="https://www.linkedin.com/in/matthias-beyer/">LinkedIn</a>
+</td>
+</tr></table>
+
 
 ## Life Roadmap
 
