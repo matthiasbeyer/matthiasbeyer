@@ -18,7 +18,7 @@
   <a href="https://beyermatthias.de">Blog/Website</a>
 </td>
 <td>
-  <a rel="me" href="https://fosstodon.org/@musicmatze">Mastodon</a>
+  <a rel="me" href="https://social.linux.pizza/@musicmatze">Mastodon</a>
 </td>
 <td>
   <a href="https://pixelfed.social/musicmatze">Pixelfed</a>
