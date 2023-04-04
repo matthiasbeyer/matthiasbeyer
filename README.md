@@ -37,6 +37,8 @@
 - [x] Work in homeoffice
 - [x] Work fulltime in Rust
 - [x] Bike tour from Germany to Hungary
+- [x] Get engaged
+- [ ] Get married
 - [ ] Walk from most northern point in Germany to most southern point
 - [ ] Live outside of Germany
 - [ ] Travel
