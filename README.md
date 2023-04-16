@@ -48,11 +48,12 @@
   - [x] Canada
   - [x] the US
   - [x] Iceland
+  - [x] Greece
   - [ ] Canada or the US again
   - [ ] Iceland again
   - [ ] Norway
   - [ ] Spain
-  - [ ] Greece, Albania, Serbia, Bulgaria, Croatia
+  - [ ] Albania, Serbia, Bulgaria, Croatia
   - [ ] New Zealand
   - [ ] Kazakhstan/Mongolia
 - [x] Be awesome and not modest
