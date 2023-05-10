@@ -1,17 +1,16 @@
- <table align="center"><tr><td align="center">
+<div align="center">
+ <p>
+ You can <b>hire me</b> as a freelancer for <b>Rust</b> and <b>NixOS</b>, but also for other things related to Software Engineering!
+ </p>
+ 
+ <p>
+ Feel free to contact at <b>kontakt (at) &#060;my last name&#062; &#060;my first name&#062; (dot) de</b>
+ </p>
+ <p>
+  or via LinkedIn or Xing!
+ </p>
+</div>
 
-[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
-
-[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
-
-</td>
-<td align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbeyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</td></tr></table>
-
----
 
 <table align="center"><tr>
 <td>
@@ -30,6 +29,24 @@
   <a href="https://www.linkedin.com/in/matthias-beyer/">LinkedIn</a>
 </td>
 </tr></table>
+
+---
+
+<table align="center"><tr><td align="center">
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=matthiasbeyer&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasbeyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
+
+---
+
 
 <div align="center">
   <b>If you PR me code that's written by some "AI", I will block you</b>
