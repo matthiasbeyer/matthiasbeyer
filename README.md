@@ -66,6 +66,7 @@
   - [x] the US
   - [x] Iceland
   - [x] Greece
+  - [x] UK
   - [ ] Canada or the US again
   - [ ] Iceland again
   - [ ] Norway
