@@ -6,6 +6,7 @@
  <p>
  Feel free to contact at <b>kontakt (at) &#060;my last name&#062; &#060;my first name&#062; (dot) de</b>
  </p>
+ <p>If you want to reach out for opensource stuff, replace that "kontakt" with "mail"</p>
  <p>
   or via LinkedIn or Xing!
  </p>
