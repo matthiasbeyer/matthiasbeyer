@@ -4,14 +4,11 @@
  </p>
  
  <p>
- Feel free to contact at <b>kontakt (at) &#060;my last name&#062; &#060;my first name&#062; (dot) de</b>
+ Feel free to send patches to <b>mail (at) &#060;my last name&#062; &#060;my first name&#062; (dot) de</b>
  </p>
  <p>
-  or via LinkedIn or Xing!
+ You can also contact me via LinkedIn or Xing for professional stuff!
  </p>
- 
- <p>If you want to reach out for opensource stuff, replace that "kontakt" with "mail"</p>
- 
 </div>
 
 
@@ -21,9 +18,6 @@
 </td>
 <td>
   <a rel="me" href="https://social.linux.pizza/@musicmatze">Mastodon</a>
-</td>
-<td>
-  <a href="https://pixelfed.social/musicmatze">Pixelfed</a>
 </td>
 <td>
   <a href="https://www.xing.com/profile/Matthias_Beyer47">Xing</a>
