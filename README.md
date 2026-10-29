@@ -1,6 +1,6 @@
 <div align="center">
  <p>
- You can <b>hire me</b> as a freelancer for <b>Rust</b> and <b>NixOS</b>, but also for other things related to Software Engineering!
+ I am doing <b>Rust</b> and <b>NixOS</b>
  </p>
  
  <p>
