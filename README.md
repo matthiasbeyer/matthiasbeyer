@@ -44,11 +44,6 @@
 
 ---
 
-
-<div align="center">
-  <b>If you PR me code that's written by some "AI", I will block you</b>
-</div>
-
 ## Life Roadmap
 
 - [x] Work in homeoffice
